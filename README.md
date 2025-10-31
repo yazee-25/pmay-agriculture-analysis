@@ -30,10 +30,9 @@ pmay_agriculture_analysis/
 ├── analysis.ipynb
 ├── README.md
 ├── requirements.txt
-└── output_visuals/
-    ├── pmay_bar_chart.png
-    ├── agri_trend_line.png
-    └── correlation_heatmap.png
+ ├── pmay_bar_chart.png
+ ├── agri_trend_line.png
+ └── correlation_heatmap.png
 
 
 
