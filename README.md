@@ -16,7 +16,7 @@ It identifies socio-economic trends and correlations using Python (Pandas, Matpl
 
 
 ##  Tools Used
-- Python 🐍  
+- Python  
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - IDE: Jupyter Notebook / Google Colab  
 - Data Sources: [data.gov.in](https://data.gov.in)
